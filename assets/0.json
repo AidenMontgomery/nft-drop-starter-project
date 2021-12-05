@@ -1,0 +1,23 @@
+{
+  "name": "Mobile_Infantry",
+  "symbol": "",
+  "image": "0.png",
+  "collection": {
+     "name": "Starship Troopers NFT",
+     "family": "Starship Troopers"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "AqTCUDqSey71Aww4mjoPtarXQCudiRd6TbdnbTzXceV8",
+        "share": 100
+      }
+    ]
+  }
+}

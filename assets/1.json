@@ -1,0 +1,23 @@
+{
+  "name": "Marauder",
+  "symbol": "",
+  "image": "1.png",
+  "collection": {
+     "name": "Starship Troopers NFT",
+     "family": "Starship Troopers"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "AqTCUDqSey71Aww4mjoPtarXQCudiRd6TbdnbTzXceV8",
+        "share": 100
+      }
+    ]
+  }
+}
